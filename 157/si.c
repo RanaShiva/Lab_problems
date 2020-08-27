@@ -1,3 +1,5 @@
+/* Q1.WACP to which takes p,t,r as input and compute the simple interest and display the result.
+*/
 #include<stdio.h>
 int main()
 {

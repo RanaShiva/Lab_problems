@@ -1,3 +1,4 @@
+/*Q3.WACP to find diameter, area and perimeter of a circle.*/
 #include<stdio.h>
 #define PI 3.14
 int main()
