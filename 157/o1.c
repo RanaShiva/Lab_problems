@@ -14,5 +14,11 @@ int main()
   float q=2.5, d=4.5;
   printf("%d\n",a/b+(a/(2*b)));
   printf("%f\n",++a+b--/q);
+  a=10,b=20;
+  printf("%d\n",b%a++);
+  a=10;
+  printf("%d\n",b%++a);
+  a=10;
+  printf("%d\n",a+2<b || !c&&a==d || a-2<=e);  
   return 0;
 }
